@@ -1,0 +1,82 @@
+*{
+    background:black;
+    color: blue;
+}
+
+input{
+    width: 650px ;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.input-submit{
+    width: 120px;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
+.onsubmit{
+    width: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color:red;
+    color: white;
+    border: none;
+    border-radius:5px ;
+}
+    
+
+.vegetation{
+    float: left;
+    height: 1580px;
+    width: 650px;
+    border-radius: 15px;
+}
+.inputcheck{
+    width: 15px;
+}
+.elon-musk{
+    text-align: center;
+    font-family: impact;
+    font-size: 4vw;
+    font-weight: 100;
+    color: blue;
+}
+
+hr{
+    width: 650px;
+    border-color: blue;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.comment-textarea{
+    width: 650px;
+    border-color: blue;
+    border-radius: 5px;
+
+}
+
+label{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+label.logo{
+ 
+    color:blue ;
+       font-size: 35px;
+       font-weight: bold;
+       line-height: 80px;
+       padding: 80 100px;
+       border-radius: 50px;
+       border-color: blue;
+       border: solid;
+       padding: 10px;
+   }
